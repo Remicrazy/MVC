@@ -1,0 +1,45 @@
+.navcenter {
+  margin:auto;
+  font-size: 20px;
+}
+
+.acceuil {
+  margin-top: 60px;
+  font-size: 22px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.liste {
+  border : 1px solid black;
+}
+
+.lister {
+  width: 60%;
+}
+
+button {
+  margin-top: 50px;
+}
+
+.titre1 {
+  margin-left: 100px;
+}
+
+.retour {
+  float :right;
+  margin-right: 350px;
+}
+
+.bigimg {
+  max-width: 250px;
+  height: auto;
+}
+
+.details {
+  width: 100%;
+  margin:auto;
+  margin-left: 150px;
+}
